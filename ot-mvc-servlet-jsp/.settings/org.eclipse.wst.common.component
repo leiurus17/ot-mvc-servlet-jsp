@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ot-mvc-servlet-jsp">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ot-mvc-servlet-jsp"/>
+        <property name="java-output-path" value="/ot-mvc-servlet-jsp/build/classes"/>
+    </wb-module>
+</project-modules>
